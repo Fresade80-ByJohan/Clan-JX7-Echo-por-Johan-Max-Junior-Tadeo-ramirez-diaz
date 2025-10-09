@@ -1,7 +1,7 @@
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/memejames/elerium-v2-ui-library/main/Library", true))()
 
 -- Janela principal
-local window = library:AddWindow("MVX Script | CRCKED BY ALEJANDRO", {
+local window = library:AddWindow("JX7 Scrip", {
     main_color = Color3.fromRGB(255, 0, 0), -- Vermelho escuro
     min_size = Vector2.new(615, 550),
     can_resize = false,
@@ -2365,7 +2365,7 @@ end)
 
 local Credits = window:AddTab("Credits")
 
-Credits:AddLabel("script cracked by ALEJANDRO")
+Credits:AddLabel("script by Johan")
 Credits:AddLabel("They are just clowns :")
 Credits:AddLabel("MVX_DeathKillerX")
 Credits:AddLabel("name and address of the")
