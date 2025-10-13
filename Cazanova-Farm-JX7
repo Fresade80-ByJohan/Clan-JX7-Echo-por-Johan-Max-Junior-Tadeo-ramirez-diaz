@@ -1,7 +1,7 @@
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/memejames/elerium-v2-ui-library/main/Library", true))()
 
 -- Janela principal
-local window = library:AddWindow("Clan JX7 Scrip", {
+local window = library:AddWindow("🎃🔪Cazanova V1🎃🔪", {
     main_color = Color3.fromRGB(255, 0, 0), -- Vermelho escuro
     min_size = Vector2.new(615, 550),
     can_resize = false,
@@ -2367,7 +2367,7 @@ local Credits = window:AddTab("Credits")
 
 Credits:AddLabel("script by Johan")
 Credits:AddLabel("Clan JX7 ON TOP :")
-Credits:AddLabel("Creditos:Max JX7,Junior JX7,Karma JX7")
+Credits:AddLabel("Creditos:Johan JX7, Max JX7,")
 Credits:AddLabel("Actualización Super OP este 1/11/2025🎃🔪")
 Credits:AddLabel("Script echo para los integrantes")
 Credits:AddLabel("Espero les guste")
